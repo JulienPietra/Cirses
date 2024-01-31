@@ -4,7 +4,7 @@ val: ../images/valid
 test: ../images/test
 
 nc: 3
-names: ['autre', 'cirse', 'random bullshit']
+names: ['autre', 'cirse']
 
 roboflow:
   workspace: julien-fil-rouge-cirses
