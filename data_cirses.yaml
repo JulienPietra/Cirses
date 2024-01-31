@@ -1,9 +1,9 @@
-path: ../datasets/Cirses-main
+$path: ../datasets/Cirses-main
 train: ../images/train
 val: ../images/valid
 test: ../images/test
 
-nc: 3
+nc: 2
 names: ['autre', 'cirse']
 
 roboflow:
