@@ -3,8 +3,8 @@ train: ../images/train
 val: ../images/valid
 test: ../images/test
 
-nc: 2
-names: ['autre', 'cirse']
+nc: 1
+names: ['cirse']
 
 roboflow:
   workspace: julien-fil-rouge-cirses
