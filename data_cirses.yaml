@@ -1,4 +1,5 @@
 path: ../datasets/Cirses-main
+
 train: ../images/train
 val: ../images/valid
 test: ../images/test
@@ -9,6 +10,6 @@ names: ['cirse']
 roboflow:
   workspace: julien-fil-rouge-cirses
   project: cirses-fil-rouge
-  version: 4
+  version: 9
   license: CC BY 4.0
-  url: https://universe.roboflow.com/julien-fil-rouge-cirses/cirses-fil-rouge/dataset/4
+  url: https://universe.roboflow.com/julien-fil-rouge-cirses/cirses-fil-rouge/dataset/9
